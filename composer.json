@@ -1,0 +1,20 @@
+{
+    "name" : "livesearch/livesearch",
+    "description": "A live search using Ajax queries",
+    "version": "0.0.1",
+    "type": "project",
+    "keywords": [
+        "search",
+        "ajax",
+        "live search"
+    ],
+    "time": "2018-03-30",
+    "authors": [
+        {
+            "name": "Andrey Zadneprovskiy",
+            "email": "dn6pr0@gmail.com",
+            "homepage": "https://vk.com/dreu00",
+            "role": "Developer"
+        }
+    ]
+}
