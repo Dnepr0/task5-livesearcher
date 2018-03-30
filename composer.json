@@ -1,7 +1,7 @@
 {
-    "name" : "livesearch/livesearch",
-    "description": "A live search using Ajax queries",
-    "version": "0.0.1",
+    "name" : "livesearcher/livesearcherg",
+    "description": "A live searcher using Ajax queries",
+    "version": "0.0.2",
     "type": "project",
     "keywords": [
         "search",
@@ -16,5 +16,8 @@
             "homepage": "https://vk.com/dreu00",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    }
 }
