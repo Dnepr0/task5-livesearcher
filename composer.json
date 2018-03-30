@@ -17,6 +17,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Dnepr0/task5-livesearcher"
+        }
+    ],
     "require": {
         "php": ">=5.3.2"
     }
