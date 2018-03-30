@@ -1,7 +1,7 @@
 {
     "name" : "livesearcher/livesearcher",
     "description": "A live searcher using Ajax queries",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "type": "project",
     "keywords": [
         "search",
